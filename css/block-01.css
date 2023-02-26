@@ -29,3 +29,7 @@
     color: white;
     font-size: 22px;
 }
+
+.arrow-word-container {
+    transform: translate(180px, 100px);
+}
