@@ -1,0 +1,16 @@
+.main-logo {
+    width: 112px;
+    height: 28px;
+
+    background: white;
+
+    -webkit-mask-image: url(images/main-logo.svg);
+    -webkit-mask-repeat: no-repeat;
+    -webkit-mask-size: contain;
+    -webkit-mask-position: center;
+
+    mask-image: url(images/main-logo.svg);
+    mask-repeat: no-repeat;
+    mask-size: contain;
+    mask-position: center;
+}

@@ -1,0 +1,87 @@
+.eyson-footer {
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    height: 154px;
+    background: blueviolet;
+}
+
+.phone-number {
+    font-size: 14px;
+    font-weight: 100;
+    line-height: 17px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: white;
+    margin: 0 10px 0 10px;
+}
+
+.buttons-container {
+    /*margin: 0 0 0 10px;*/
+}
+
+.telegram-logo-container {
+    margin: 0 10px 0 10px;
+}
+
+.navigation {
+    display: flex;
+    height: 28px;
+    margin: 52px 0 0 0;
+}
+
+.navigation-item {
+    color: rgba(255, 255, 255, 0.6);
+    margin: 0 25px 0 0;
+    font-size: 16px;
+}
+
+.logo-copyright-container {
+    margin: 52px 0 0 0;
+}
+.copyright {
+    color: rgba(255, 255, 255, 0.3);
+    font-size: 14px;
+    margin: 18px 0 0 0;
+}
+
+.contacts-container {
+    /*display: flex;*/
+    margin: 52px 0 0 0;
+}
+
+.contacts-telegram-logo {
+}
+
+.contacts-text {
+    /*height: 50px;*/
+    /*width: 225px;*/
+    /*background: #1e7e34;*/
+}
+
+.contacts-email-phone {
+    display: flex;
+}
+.contacts-email {
+    height: 30px;
+    width: 160px;
+    line-height: 30px;
+    /*background: #9fcdff;*/
+    color: rgba(255, 255, 255, 0.6);
+
+}
+
+.contacts-phone {
+    height: 30px;
+    line-height: 30px;
+    width: 140px;
+    /*background: #1e7e34;*/
+    color: rgba(255, 255, 255, 1);
+}
+
+.contacts-address {
+    height: 30px;
+    /*line-height: 30px;*/
+    /*background: #721c24;*/
+    color: rgba(255, 255, 255, 0.6);
+}

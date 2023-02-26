@@ -1,0 +1,70 @@
+@import "fonts.css";
+
+body {
+    padding: 0;
+    margin: 0;
+    background: black;
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+}
+
+@media (min-width: 1200px) {
+    .container {
+        max-width: 1440px;
+    }
+}
+
+.opensans {
+    font-family: "Open Sans", sans-serif;
+}
+
+.gilroy {
+    font-family: 'Gilroy-Regular', sans-serif;
+    font-stretch: expanded;
+    line-height: 140%;
+}
+
+.font-size-18 {
+    font-size: 18px;
+}
+
+.gilroy-semibold {
+    font-family: 'Gilroy-SemiBold', sans-serif;
+    font-stretch: expanded;
+    font-weight: 600;
+    /*font-style: oblique;*/
+    line-height: 140%;
+}
+
+.eyson-header {
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 26px;
+    color: white;
+}
+
+.h2-eyson {
+    font-size: 40px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    line-height: 44px;
+    color: white;
+    letter-spacing: -2px;
+}
+
+
+.eyson-text {
+    color: rgba(255, 255, 255, 0.6);
+    margin: 0;
+
+}
+
+.eyson-text-h3 {
+    font-size: 16px;
+    font-weight: 400;
+}
+.nopadding {
+    padding: 0 !important;
+    margin: 0 !important;
+}
+

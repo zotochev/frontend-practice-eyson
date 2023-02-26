@@ -1,0 +1,42 @@
+.exp {
+    background: white;
+    width: 240px;
+    height: 187px;
+    position: relative;
+    /*margin: 0;*/
+}
+
+.exp-p {
+    color: black;
+    font-weight: bold;
+    padding: 24px;
+    position: absolute;
+    margin: 0;
+    width: 192px;
+    bottom: 0;
+    left: 0;
+}
+
+.exp-ico {
+    background: linear-gradient(45deg, #4B0ADF 0%, #8F2FCA 100%);
+    /*-webkit-mask-image: url(ui-kit/images/ico-wallet-money.svg);*/
+    -webkit-mask-repeat: no-repeat;
+    -webkit-mask-size: contain;
+    -webkit-mask-position: center;
+
+    /*mask-image: url(ui-kit/images/ico-wallet-money.svg);*/
+    mask-repeat: no-repeat;
+    mask-size: contain;
+    mask-position: center;
+
+
+    /*background: #4B0ADF;*/
+    width: 59px;
+    height: 59px;
+
+    position: absolute;
+    top: 18px;
+    right: 36px;
+
+    margin: 0;
+}

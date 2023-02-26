@@ -1,0 +1,27 @@
+.telegram-logo-grad {
+    width: 25px;
+    height: 25px;
+
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+
+    background-image: url("images/telegram-logo-grad.svg");
+}
+
+.telegram-logo-white {
+    width: 30px;
+    height: 30px;
+
+    background: white;
+
+    -webkit-mask-image: url(images/telegram-logo-white.svg);
+    -webkit-mask-repeat: no-repeat;
+    -webkit-mask-size: contain;
+    -webkit-mask-position: center;
+
+    mask-image: url(images/telegram-logo-white.svg);
+    mask-repeat: no-repeat;
+    mask-size: contain;
+    mask-position: center;
+}
