@@ -1,0 +1,24 @@
+.dashed-circle {
+    width: 650px;
+    height: 650px;
+    margin: 0 0 0 0;
+
+    background: linear-gradient(45deg, #4B0ADF 0%, #8F2FCA 100%);
+
+    -webkit-mask-image: url(images/circle-dash.svg);
+    -webkit-mask-repeat: no-repeat;
+    -webkit-mask-size: contain;
+    -webkit-mask-position: center;
+
+    mask-image: url(images/circle-dash.svg);
+    mask-repeat: no-repeat;
+    mask-size: contain;
+    mask-position: center;
+    /*display: none;*/
+
+    position: absolute;
+    top: 0;
+    /*left: 0;*/
+    z-index: -1;
+    transform: rotate(21.43deg) translate(-130px, 30px);
+}

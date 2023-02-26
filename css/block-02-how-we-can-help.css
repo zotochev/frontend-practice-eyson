@@ -1,10 +1,3 @@
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@700&display=swap');
-
-.bblack {
-    background: black;
-    padding: 0;
-    margin: 0;
-}
 
 .h2-eyson {
     font-size: 40px;
@@ -17,23 +10,23 @@
 
 .block-02-header-container {
     height: 150px;
-    background: #9fcdff;
+    /*background: #9fcdff;*/
 }
 
 .block-02-body-container {
-    background: #9fcdff;
+    /*background: #9fcdff;*/
 }
 
 .block-02-body-left {
-    background: #9fcdff;
+    /*background: rebeccapurple;*/
 }
 .block-02-body-left p {
 }
 
 .block-02-body-mid {
-    background: #9fcdff;
+    /*background: #9fcdff;*/
 }
 
 .block-02-body-right {
-    background: #9fcdff;
+    /*background: blueviolet;*/
 }

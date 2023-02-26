@@ -1,4 +1,3 @@
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@700&display=swap');
 
 .h1-eyson {
     font-size: 60px;
@@ -10,24 +9,23 @@
 }
 
 .block-01-header-container {
-    height: 350px;
+    /*height: 480px;*/
+    margin: 160px 0 200px 0;
 }
 
 .block-01-body-empty {
-    /*height: 400px;*/
+    /*background: darkorange;*/
 }
 
 .block-01-body-content {
-    height: 350px;
+    /*margin: 0;*/
+    padding: 0;
+    margin: 0 0 300px 0;
+    /*height: 350px;*/
+    /*background: #bd2130;*/
 }
 
 .block-01-body-content p {
     color: white;
     font-size: 22px;
 }
-
-/*.block-01-body-content button {*/
-/*    font-size: 16px;*/
-/*    padding: 15px 35px 15px 35px;*/
-/*    border-width: 2px;*/
-/*}*/

@@ -6,12 +6,6 @@
 }
 
 
-.bblack {
-    background: black;
-    padding: 0;
-    margin: 0;
-}
-
 .h2-eyson {
     font-size: 40px;
     font-family: 'Open Sans', sans-serif;
@@ -23,39 +17,39 @@
 
 .block-04-header-container {
     height: 150px;
-    background: #9fcdff;
+    /*background: #9fcdff;*/
 }
 
 .block-04-body-container {
     /*height: 300px;*/
     overflow: hidden;
-    background: blueviolet;
+    /*background: blueviolet;*/
 }
 
-.items-container {
-    white-space: nowrap;
-    overflow-x: scroll;
-    overflow-y: hidden;
-    -webkit-overflow-scrolling: touch;
-}
+/*.items-container {*/
+/*    white-space: nowrap;*/
+/*    overflow-x: scroll;*/
+/*    overflow-y: hidden;*/
+/*    -webkit-overflow-scrolling: touch;*/
+/*}*/
 
-.scroll-item {
-    display: inline-block;
-    margin: 0 35px 0 0;
-}
+/*.scroll-item {*/
+/*    display: inline-block;*/
+/*    margin: 0 35px 0 0;*/
+/*}*/
 
 .block-04-body-left {
     width: auto;
     height: 150px;
-    background: #9fcdff;
+    /*background: rebeccapurple;*/
 }
 
 .block-04-body-right {
-    background: #9fcdff;
+    /*background: violet;*/
 }
 
 .intro-container {
-    background: #71dd8a;
+    /*background: #71dd8a;*/
     padding: 0 0 20px 0;
 }
 
@@ -64,13 +58,9 @@
     margin: 0 40px 0 0;
 }
 
-.buttons-container {
-    background: #80bdff;
-}
-
-.items-container {
-    padding: 60px 0 60px 0;
-    background: #c69500;
+.buttons-container-block-04 {
+    margin: 0;
+    /*background: #80bdff;*/
 }
 
 .exp-ico-finance {

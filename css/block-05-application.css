@@ -17,12 +17,12 @@
 
 .block-05-header-container {
     /*height: 150px;*/
-    background: #9fcdff;
+    /*background: #9fcdff;*/
 }
 
 .block-05-body-container {
     overflow: hidden;
-    background: blueviolet;
+    /*background: blueviolet;*/
 }
 
 .block-05-body-left {
@@ -32,10 +32,12 @@
 .block-05-body-right {}
 .block-05-body-right textarea {
     height: 133px;
+    /*background: violet;*/
 }
 
-.buttons-container {
-    background: #80bdff;
+.buttons-container-block-05 {
+    margin: 0;
+    /*background: #80bdff;*/
 }
 
 

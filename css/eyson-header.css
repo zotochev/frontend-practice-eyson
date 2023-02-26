@@ -1,9 +1,9 @@
-.eyson-header {
+.eyson-header-block {
     padding: 0;
     margin: 0;
     width: 100%;
     height: 64px;
-    background: blueviolet;
+    /*background: blueviolet;*/
 }
 
 .phone-number {
@@ -18,6 +18,10 @@
 
 .buttons-container {
     margin: 0 0 0 10px;
+}
+
+.buttons-container .ghost {
+    padding: 3px 25px 3px 25px;
 }
 
 .telegram-logo-container {
