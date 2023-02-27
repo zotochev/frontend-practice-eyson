@@ -1,0 +1,61 @@
+.purpure-color {
+    background: radial-gradient(#5d2f6e 80%, rgba(0, 0, 0, 0));
+}
+
+.blue-color {
+    background: radial-gradient(rgba(81, 14, 221, 1), rgba(0, 0, 0, 0));
+}
+
+.gradient-stain-218-218 {
+    width: 218px;
+    height: 218px;
+    filter: blur(75px);
+    transform: translate(590px, -130px);
+    z-index: 1;
+    position: absolute;
+}
+
+.gradient-stain-264-264 {
+    width: 264px;
+    height: 264px;
+    filter: blur(75px);
+    transform: translate(-70px, -130px);
+    z-index: -2;
+    position: absolute;
+}
+
+.gradient-stain-553-750 {
+    width: 553px;
+    height: 750px;
+    filter: blur(75px);
+    transform: translate(1000px, 1050px);
+    z-index: -2;
+    position: absolute;
+}
+
+.gradient-stain-569-569 {
+    width: 569px;
+    height: 569px;
+    filter: blur(200px);
+    transform: translate(930px, -530px);
+    z-index: -2;
+    position: absolute;
+}
+
+.gradient-stain-1411-321 {
+    width: 1411px;
+    height: 321px;
+    filter: blur(200px);
+    transform: translate(10px, 2500px);
+    z-index: -2;
+    position: absolute;
+}
+
+.gradient-stain-1654-321 {
+    width: 1654px;
+    height: 321px;
+    filter: blur(150px);
+    transform: translate(10px, 4100px);
+    z-index: -2;
+    position: absolute;
+}
