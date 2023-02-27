@@ -15,6 +15,11 @@
     overflow: hidden;
     /*background: blueviolet;*/
 }
+
+.block-03-footer {
+    height: 200px;
+}
+
 /*.items-container {*/
 /*    white-space: nowrap;*/
 /*    overflow-x: scroll;*/

@@ -7,6 +7,10 @@ body {
     color: white;
     z-index: -100;
     font-family: 'Open Sans', sans-serif;
+
+    /* For footer background */
+    height: 100%;
+    position: relative;
 }
 
 @media (min-width: 1200px) {

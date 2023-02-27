@@ -25,8 +25,13 @@
 
 .block-02-body-mid {
     /*background: #9fcdff;*/
+    height: 1200px;
 }
 
 .block-02-body-right {
     /*background: blueviolet;*/
+}
+
+.block-02-arrow-word-container {
+    transform: translate(0, 600px);
 }

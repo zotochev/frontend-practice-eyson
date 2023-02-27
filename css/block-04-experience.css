@@ -48,6 +48,11 @@
     /*background: violet;*/
 }
 
+.block-04-footer {
+    height: 150px;
+}
+
+
 .intro-container {
     /*background: #71dd8a;*/
     padding: 0 0 20px 0;
@@ -86,4 +91,8 @@
 .exp-ico-gov {
     -webkit-mask-image: url(ui-kit/images/ico-gov.svg);
     mask-image: url(ui-kit/images/ico-gov.svg);
+}
+
+.block-04-arrow-word-container {
+    transform: translate(0, -380px);
 }
