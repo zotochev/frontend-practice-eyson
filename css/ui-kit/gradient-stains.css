@@ -10,8 +10,8 @@
     width: 218px;
     height: 218px;
     filter: blur(75px);
-    transform: translate(590px, -130px);
-    z-index: 1;
+    transform: translate(590px, 100px);
+    z-index: 0;
     position: absolute;
 }
 
@@ -27,8 +27,8 @@
 .gradient-stain-553-750 {
     width: 553px;
     height: 750px;
-    filter: blur(75px);
-    transform: translate(1000px, 1050px);
+    filter: blur(150px);
+    transform: translate(1000px, 1100px);
     z-index: -2;
     position: absolute;
 }
@@ -58,4 +58,20 @@
     transform: translate(10px, 4100px);
     z-index: -2;
     position: absolute;
+}
+
+.gradient-circle {
+    width: 1735px;
+    height: 1735px;
+    border-radius: 50%;
+    transform: translate(-180px, 2800px);
+    /*transform: translate(10px, -1000px);*/
+    background: linear-gradient(45deg, #4B0ADF 0%, #8F2FCA 100%);
+    z-index: -2;
+    position: absolute;
+}
+
+.position-relative-background {
+    position: relative;
+    overflow: clip;
 }
